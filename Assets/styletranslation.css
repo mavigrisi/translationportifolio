@@ -1,0 +1,9 @@
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}    
+h1, h2 {
+    text-align: center; color: darkslategray;
+}
+h2 {
+   color: olive; line-height: 5%; font-family: 'Courier New', Courier, monospace;
+}
